@@ -5,7 +5,7 @@
 package main
 
 import (
-	`github.com/mod-tacker/mop`
+	`github.com/michaeldv/mod-tacker/mop`
 	`github.com/michaeldv/termbox-go`
 	`time`
 )
